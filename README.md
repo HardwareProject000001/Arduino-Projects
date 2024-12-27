@@ -54,7 +54,7 @@ Some of the commonly used Arduino boards include:
 5. **Arduino MKR Series**: Suitable for IoT projects.
 
 <h3>Arduino Uno</h3>
-![A000066_03 front_934x700](https://github.com/user-attachments/assets/cc882ee1-e7cc-4835-98ec-5c2897e1b428)
+<img width="639" alt="Screenshot 2024-12-27 at 12 35 21 AM" src="https://github.com/user-attachments/assets/cc882ee1-e7cc-4835-98ec-5c2897e1b428" />
 <p>The Arduino Uno is the most popular and widely used board in the Arduino family. It features an ATmega328P microcontroller and has 14 digital input/output pins, 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header, and a reset button. Its simple and user-friendly design makes it ideal for beginners and educational purposes. The Uno can be powered via a USB connection or an external power supply. It's highly compatible with most shields and modules due to its standard pin layout.</p>
 <br>
 
