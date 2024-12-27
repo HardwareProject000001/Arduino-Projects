@@ -70,21 +70,21 @@ Some of the commonly used Arduino boards include:
 <br>
 
 <h3>Arduino Nano</h3>
-<p>
+<p align = "center">
 <img width="546" alt="Screenshot 2024-06-05 at 8 50 06 PM" src="https://github.com/user-attachments/assets/f6a4296a-e4bc-4136-95ec-962a8f4c0137">
 </p>
 <p>The Arduino Nano is a small, complete, and breadboard-friendly board based on the ATmega328P microcontroller. It has the same functionality as the Arduino Uno but in a smaller form factor, making it suitable for tight spaces and compact projects. The Nano has 14 digital I/O pins, 8 analog inputs, and a mini-USB connection for programming and power. It can be powered via the mini-USB connection, a 6-20V unregulated external power supply, or a 5V regulated external power supply. Its small size and versatility make it popular for portable and wearable projects.</p>
 <br>
 
 <h3>Arduino Leonardo</h3>
-<p>
+<p align = "center">
 <img width="471" alt="Screenshot 2024-06-05 at 8 57 30 PM" src="https://github.com/user-attachments/assets/dddecb99-d927-4436-aeff-b00ecf9f20f2">
 </p>
 <p>The Arduino Leonardo differs from other Arduino boards by using the ATmega32u4 microcontroller with built-in USB communication, eliminating the need for a separate USB-to-serial adapter. This allows the Leonardo to appear as a mouse and keyboard to connected computers, in addition to a virtual (CDC) serial/COM port. It has 20 digital I/O pins, 7 analog inputs, and a micro-USB connection. This unique capability makes it ideal for projects that involve human interface devices like keyboards, mice, and game controllers. The Leonardo can be powered via the USB connection or an external power supply.</p>
 <br>
 
 <h3>Arduino MKR Series</h3>
-<p>
+<p align = "center">
 <img width="616" alt="Screenshot 2024-06-05 at 9 01 50 PM" src="https://github.com/user-attachments/assets/08378657-c5ff-4539-9aed-5fef0e95f64f">
 </p>
 <p>The Arduino MKR series is designed for IoT projects, combining the functionality of the Zero and the connectivity of the Arduino WiFi Shield. The series includes various boards like MKR WiFi 1010, MKR GSM 1400, and MKR WAN 1300, each tailored for specific connectivity protocols. These boards feature a small form factor, 32-bit ARM Cortex-M0+ processor, and integrated connectivity options like WiFi, GSM, or LoRa. They are designed to be power-efficient and support battery operation, making them suitable for portable and remote applications. The MKR series provides a comprehensive platform for developing IoT solutions with built-in connectivity and support for various communication protocols.</p>
