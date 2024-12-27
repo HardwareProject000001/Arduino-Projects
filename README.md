@@ -1,5 +1,5 @@
 # Arduino 
-![Arduino_2020](https://github.com/CodeBeginner000001/Arduino-Projects/assets/92913917/0f4a8611-84c3-4b1a-ad35-d63229bdc5e4)
+<img width="639" alt="Screenshot 2024-12-27 at 12 35 21 AM" src="https://github.com/user-attachments/assets/77467b88-b338-4663-8e40-d1647115ef99" />
 <br>
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects. The Arduino boards are able to read inputs, such as light on a sensor or a finger on a button, and turn them into outputs, such as activating a motor or turning on an LED. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so, you use the Arduino programming language (based on Wiring), and the Arduino Software (IDE), based on Processing.
 
